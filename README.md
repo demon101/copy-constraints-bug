@@ -9,7 +9,7 @@ Field error in object 'copy.bug.WorkingPeriod' on field 'note': rejected value [
 	at copy.bug.ApiController.$tt__save(ApiController.groovy:21)
 ```
 
-on line 
+after binding  
 ```groovy
 //        bindData(period, command, [exclude: ['hours','class', 'constraints']]) //works
 //        bindData(period, command) //works
