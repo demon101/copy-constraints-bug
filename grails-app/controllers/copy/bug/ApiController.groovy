@@ -5,7 +5,7 @@ import grails.validation.Validateable
 import org.springframework.http.HttpStatus
 
 @Transactional(readOnly = true)
-class ApiController extends ApiControllerHelper {
+class ApiController {
 
     @Transactional
     def save() {
