@@ -1,0 +1,1 @@
+grails.databinding.dateFormats = ["dd.MM.yyyy HH:mm", "dd.MM.yyyy", 'MMddyyyy', 'yyyy-MM-dd HH:mm:ss.S', "yyyy-MM-dd'T'hh:mm:ss'Z'", "MM/dd/yyyy", "yyyy-MM-dd"]
